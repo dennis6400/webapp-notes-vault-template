@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "Credentials",
+      "path": "01 - Scope & Accounts/Credentials.md"
+    },
+    {
+      "type": "file",
+      "title": "Scope",
+      "path": "01 - Scope & Accounts/Scope.md"
+    },
+    {
+      "type": "file",
+      "title": "Attack Scenarions & TODOs",
+      "path": "04 - Misc/Attack Scenarions & TODOs.md"
+    },
+    {
+      "type": "file",
+      "title": "All TODOs",
+      "path": "All TODOs.md"
+    }
+  ]
+}
