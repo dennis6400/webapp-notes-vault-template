@@ -22,7 +22,7 @@ The command above clone the latest state (master branch) of the repository. Refe
 **Step 02 -** Remove not relvant files for the respective penetration test engagement or project:
 
 ```shell
-rm -r .git/ README.md
+rm -r .git/ README.md .gitignore
 ```
 
 Furthemore, remove the sections which are not relevant for you. Possible **examples**:
