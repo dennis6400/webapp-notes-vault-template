@@ -1,7 +1,9 @@
-#  Simple Password Lists
+#  [[Simple Passwords Lists]]
+
 Used for bruteforcing & dictionary attacks with Burp.
 
 ##  Dictionary Attack - Example "Passwords"
+
 ```
 123456
 password
@@ -101,6 +103,7 @@ minecraft
 ```
 
 ##  Dictionary Attack - Furher Examples
+
 ```
 TODO
 ```

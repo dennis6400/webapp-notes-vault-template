@@ -1,4 +1,5 @@
-# Session IDs - Admin
+# [[Session IDs - Admin]]
+
 ##  202x-xx-xx
 
 **Example - mod_auth_openidc_session:**

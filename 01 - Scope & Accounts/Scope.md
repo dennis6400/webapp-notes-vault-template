@@ -1,6 +1,7 @@
-# Scope
+# [[Scope]]
 
 ## TEST Env
+
 **URL:**
 
 ```
@@ -18,6 +19,7 @@ IP
 ```
 
 **nslookup:**
+
 ```shell
 nslookup HOST
 ```
@@ -26,8 +28,10 @@ nslookup HOST
 RESULTS
 ```
 
-## PROD Env 
+## PROD Env
+
 **URL - Frontend:**
+
 ```
 URL
 ```
@@ -49,6 +53,7 @@ IP
 ```
 
 **nslookup:**
+
 ```shell
 nslookup HOST
 ```
