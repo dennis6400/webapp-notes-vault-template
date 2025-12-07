@@ -156,7 +156,7 @@
       },
       "active": "aa1eedbdbe4efbc6"
     },
-    "TrustedSec Layout (2023)": {
+    "TrustedSec Layout - 2023": {
       "main": {
         "id": "c54f668919803c07",
         "type": "split",
@@ -1062,5 +1062,5 @@
       "mtime": "2025-10-07T17:05:08+02:00"
     }
   },
-  "active": "Custom Layout - 2024 (EN)"
+  "active": "Custom Layout - 2024 (DE)"
 }
