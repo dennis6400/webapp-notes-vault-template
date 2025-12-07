@@ -1,5 +1,14 @@
 [
+  "sync-graph-settings",
   "dataview",
+  "templater-obsidian",
+  "table-editor-obsidian",
+  "calendar",
+  "recent-files-obsidian",
+  "obsidian-linter",
+  "url-into-selection",
+  "hotkeysplus-obsidian",
+  "hotkey-helper",
   "obsidian-admonition",
-  "templater-obsidian"
+  "obsidian-paste-image-rename"
 ]

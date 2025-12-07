@@ -1,8 +1,11 @@
 {
   "defaultViewMode": "preview",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "newFileFolderPath": "",
+  "attachmentFolderPath": "files",
+  "trashOption": "local",
   "livePreview": false,
   "showLineNumber": true,
-  "showInlineTitle": false,
-  "attachmentFolderPath": "./files",
-  "alwaysUpdateLinks": true
+  "showInlineTitle": false
 }
