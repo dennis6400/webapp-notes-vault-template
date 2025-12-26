@@ -3,7 +3,8 @@
     {
       "key": "ArrowLeft",
       "modifiers": [
-        "Alt"
+        "Alt",
+        "Ctrl"
       ]
     }
   ],
@@ -11,7 +12,8 @@
     {
       "key": "ArrowRight",
       "modifiers": [
-        "Alt"
+        "Alt",
+        "Ctrl"
       ]
     }
   ],
@@ -126,7 +128,8 @@
     {
       "key": "ArrowDown",
       "modifiers": [
-        "Alt"
+        "Alt",
+        "Mod"
       ]
     }
   ],
@@ -134,7 +137,8 @@
     {
       "key": "ArrowUp",
       "modifiers": [
-        "Alt"
+        "Alt",
+        "Mod"
       ]
     }
   ],
@@ -151,7 +155,7 @@
     {
       "key": "M",
       "modifiers": [
-        "Alt",
+        "Ctrl",
         "Mod"
       ]
     }
@@ -424,11 +428,11 @@
   ],
   "templater-obsidian:create-new-note-from-template": [
     {
+      "key": "`",
       "modifiers": [
         "Alt",
         "Mod"
-      ],
-      "key": "N"
+      ]
     }
   ],
   "templater-obsidian:insert-templater": [
@@ -481,7 +485,7 @@
       ]
     }
   ],
-    "workspace:next-tab": [
+  "workspace:next-tab": [
     {
       "key": "Tab",
       "modifiers": [
@@ -504,6 +508,13 @@
         "Shift"
       ]
     },
+    {
+      "key": "ArrowLeft",
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ]
+    }
   ],
   "workspace:split-horizontal": [
     {
@@ -799,7 +810,7 @@
       "key": "Backspace"
     }
   ],
-"review-obsidian:future-review": [
+  "review-obsidian:future-review": [
     {
       "modifiers": [
         "Mod",
@@ -832,7 +843,7 @@
         "Mod",
         "Shift"
       ],
-      "key": "7"
+      "key": "5"
     }
   ],
   "periodic-notes:prev-weekly-note": [
@@ -842,7 +853,7 @@
         "Mod",
         "Shift"
       ],
-      "key": "5"
+      "key": "7"
     }
   ],
   "periodic-notes:open-monthly-note": [
