@@ -1131,7 +1131,7 @@
                       "linkStrength": 1,
                       "linkDistance": 250,
                       "scale": 2.175245337885898,
-                      "close": true
+                      "close": false
                     }
                   },
                   "icon": "lucide-git-fork",
@@ -1172,7 +1172,7 @@
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           }
         ],
         "direction": "horizontal",
@@ -1259,7 +1259,7 @@
                     "unlinkedCollapsed": false
                   },
                   "icon": "links-coming-in",
-                  "title": "Rückverweis"
+                  "title": "Rückverweise"
                 }
               }
             ]
@@ -1287,8 +1287,8 @@
       },
       "left-ribbon": {
         "hiddenItems": {
-          "graph:Graph-Ansicht öffnen": false,
-          "bases:Create new base": true,
+          "bases:Neue Base erstellen": true,
+          "graph:Graph-Ansicht öffnen": true,
           "canvas:Neuen Canvas erstellen": true,
           "switcher:Schnellauswahl öffnen": false,
           "daily-notes:Heutige Notiz öffnen": false,
@@ -1300,7 +1300,7 @@
         }
       },
       "active": "5182fe2a846486ae",
-      "mtime": "2025-12-26T13:54:21+01:00"
+      "mtime": "2026-01-18T12:41:33+01:00"
     }
   },
   "active": "Custom Layout - 2026 (DE)"
