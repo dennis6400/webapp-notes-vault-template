@@ -29,8 +29,6 @@
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
-    "06 - Templates/general/oneliners/one-liner_html_underline.md",
-    "06 - Templates/general/code-blocks/code-block.md",
     "06 - Templates/general/oneliners/one-liner_example_en.md",
     "06 - Templates/general/oneliners/one-liner_result_en.md",
     "06 - Templates/general/panels/panel_info.md",

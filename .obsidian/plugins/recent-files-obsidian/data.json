@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "one-liner_example_extended_en",
+      "path": "06 - Templates/general/oneliners/one-liner_example_extended_en.md"
+    },
+    {
       "basename": "Created Accounts",
       "path": "01 - Scope & Accounts/Created Accounts.md"
     },
@@ -121,20 +125,12 @@
       "path": "06 - Templates/general/oneliners/one-liner_example_en.md"
     },
     {
-      "basename": "one-liner_example_extended_en",
-      "path": "06 - Templates/general/oneliners/one-liner_example_extended_en.md"
-    },
-    {
       "basename": "one-liner_result_en",
       "path": "06 - Templates/general/oneliners/one-liner_result_en.md"
     },
     {
       "basename": "one-liner_solution_en",
       "path": "06 - Templates/general/oneliners/one-liner_solution_en.md"
-    },
-    {
-      "basename": "one-liner_html_underline",
-      "path": "06 - Templates/general/oneliners/one-liner_html_underline.md"
     },
     {
       "basename": "all_tasks_filtered_several_folders",
