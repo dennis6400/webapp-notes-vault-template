@@ -1939,8 +1939,7 @@
                   "title": "Lesezeichen"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "horizontal",
@@ -2060,8 +2059,8 @@
           "table-editor-obsidian:Advanced Tables Toolbar": true
         }
       },
-      "active": "29014b7ea677cbd1",
-      "mtime": "2026-01-20T21:51:09+01:00"
+      "active": "5182fe2a846486ae",
+      "mtime": "2026-01-20T22:11:22+01:00"
     }
   },
   "active": "Simple Layout - 2026 (DE)"
