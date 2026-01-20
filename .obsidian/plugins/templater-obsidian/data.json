@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "Templates",
+  "templates_folder": "",
   "templates_pairs": [
     [
       "",
@@ -19,13 +19,30 @@
       "template": ""
     }
   ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
-    ""
+    "06 - Templates/general/oneliners/one-liner_example_en.md",
+    "06 - Templates/general/oneliners/one-liner_result_en.md",
+    "06 - Templates/general/panels/panel_info.md",
+    "06 - Templates/general/panels/panel_warn.md",
+    "06 - Templates/general/code-blocks/code-block_powershell.md",
+    "06 - Templates/general/code-blocks/code-block_shell.md",
+    "06 - Templates/general/oneliners/one-liner_step.md",
+    "06 - Templates/general/oneliners/one-liner_solution_en.md",
+    "06 - Templates/general/symbols/symbol_command.md",
+    "06 - Templates/misc.md"
   ],
   "startup_templates": [
     ""
   ],
+  "intellisense_render": 1,
   "enable_ribbon_icon": true
 }

@@ -1,4 +1,6 @@
 {
-  "accentColor": "",
-  "cssTheme": "Things"
+  "baseFontSize": 16,
+  "cssTheme": "Things",
+  "translucency": true,
+  "showViewHeader": true
 }
