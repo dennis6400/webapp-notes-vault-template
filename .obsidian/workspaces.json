@@ -614,13 +614,12 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "03 - Content/Unbenannt.base",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "Gliederung von Unbenannt"
+                  "title": "Gliederung"
                 }
               },
               {
@@ -681,7 +680,7 @@
                     "unlinkedCollapsed": false
                   },
                   "icon": "links-coming-in",
-                  "title": "Rückverweis"
+                  "title": "Rückverweise"
                 }
               }
             ]
@@ -719,20 +718,23 @@
       },
       "left-ribbon": {
         "hiddenItems": {
-          "graph:Graph-Ansicht öffnen": false,
-          "bases:Create new base": true,
-          "canvas:Neuen Canvas erstellen": true,
+          "obsidian-day-planner:Open Timeline": true,
+          "obsidian-day-planner:Open Multi-Day View": true,
+          "mermaid-tools:Open Mermaid Toolbar": true,
+          "bases:Neue Base erstellen": true,
           "switcher:Schnellauswahl öffnen": false,
+          "graph:Graph-Ansicht öffnen": false,
+          "canvas:Neuen Canvas erstellen": true,
           "daily-notes:Heutige Notiz öffnen": false,
+          "periodic-notes:Open this week": false,
           "templater-obsidian:Templater": false,
-          "templates:Vorlage einfügen": true,
           "command-palette:Befehlspalette öffnen": false,
           "workspaces:Workspace-Layouts verwalten": false,
           "table-editor-obsidian:Advanced Tables Toolbar": true
         }
       },
       "active": "5182fe2a846486ae",
-      "mtime": "2025-10-03T16:37:19+02:00"
+      "mtime": "2026-02-03T20:44:12+01:00"
     },
     "Custom Layout - 2024 (EN)": {
       "main": {
@@ -1046,20 +1048,23 @@
       },
       "left-ribbon": {
         "hiddenItems": {
+          "obsidian-day-planner:Open Timeline": true,
+          "obsidian-day-planner:Open Multi-Day View": true,
+          "mermaid-tools:Open Mermaid Toolbar": true,
           "bases:Create new base": true,
           "switcher:Open quick switcher": false,
           "graph:Open graph view": false,
           "canvas:Create new canvas": true,
           "daily-notes:Open today's daily note": false,
-          "templates:Insert template": true,
+          "periodic-notes:Open this week": false,
           "templater-obsidian:Templater": false,
           "command-palette:Open command palette": false,
           "workspaces:Manage workspace layouts": false,
           "table-editor-obsidian:Advanced Tables Toolbar": true
         }
       },
-      "active": "a0feec50514473fe",
-      "mtime": "2025-10-07T17:05:08+02:00"
+      "active": "a0bc7aa011c9fe95",
+      "mtime": "2026-02-03T20:52:43+01:00"
     },
     "Custom Layout - 2026 (DE)": {
       "main": {
@@ -1162,7 +1167,50 @@
                       "showAttachments": false,
                       "hideUnresolved": false,
                       "collapse-color-groups": true,
-                      "colorGroups": [],
+                      "colorGroups": [
+                        {
+                          "query": "file: \"000 - Global Index (Start Here!)\"",
+                          "color": {
+                            "a": 1,
+                            "rgb": 16742400
+                          }
+                        },
+                        {
+                          "query": "path:\"01 - Primary Categories\"",
+                          "color": {
+                            "a": 1,
+                            "rgb": 14701138
+                          }
+                        },
+                        {
+                          "query": "path:\"02 - Secondary Categories\"",
+                          "color": {
+                            "a": 1,
+                            "rgb": 2067956
+                          }
+                        },
+                        {
+                          "query": "path:\"04 - Templates\"",
+                          "color": {
+                            "a": 1,
+                            "rgb": 14935011
+                          }
+                        },
+                        {
+                          "query": "path:\"Daily Notes\"",
+                          "color": {
+                            "a": 1,
+                            "rgb": 4539717
+                          }
+                        },
+                        {
+                          "query": "[\"status\":\"evergreen\"]",
+                          "color": {
+                            "a": 1,
+                            "rgb": 1366804
+                          }
+                        }
+                      ],
                       "collapse-display": true,
                       "showArrow": false,
                       "textFadeMultiplier": 0,
@@ -1273,14 +1321,13 @@
                 "type": "leaf",
                 "state": {
                   "type": "file-properties",
-                  "state": {
-                    "file": "03 - Content/Clean DEVON.md"
-                  },
+                  "state": {},
                   "icon": "lucide-info",
-                  "title": "File properties for Clean DEVON"
+                  "title": "Dateieigenschaften"
                 }
               }
-            ]
+            ],
+            "currentTab": 3
           },
           {
             "id": "04e19805244c7812",
@@ -1330,6 +1377,9 @@
       },
       "left-ribbon": {
         "hiddenItems": {
+          "obsidian-day-planner:Open Timeline": true,
+          "obsidian-day-planner:Open Multi-Day View": true,
+          "mermaid-tools:Open Mermaid Toolbar": true,
           "bases:Neue Base erstellen": true,
           "canvas:Neuen Canvas erstellen": true,
           "switcher:Schnellauswahl öffnen": false,
@@ -1342,8 +1392,8 @@
           "table-editor-obsidian:Advanced Tables Toolbar": true
         }
       },
-      "active": "29014b7ea677cbd1",
-      "mtime": "2026-01-20T21:36:47+01:00"
+      "active": "1ce8218c58931427",
+      "mtime": "2026-02-03T20:43:53+01:00"
     },
     "Custom Layout - 2026 (EN)": {
       "main": {
@@ -1657,6 +1707,9 @@
       },
       "left-ribbon": {
         "hiddenItems": {
+          "obsidian-day-planner:Open Timeline": true,
+          "obsidian-day-planner:Open Multi-Day View": true,
+          "mermaid-tools:Open Mermaid Toolbar": true,
           "bases:Create new base": true,
           "switcher:Open quick switcher": false,
           "graph:Open graph view": false,
@@ -1670,7 +1723,7 @@
         }
       },
       "active": "bf6464642517b604",
-      "mtime": "2026-01-23T02:04:53+01:00"
+      "mtime": "2026-02-03T20:51:47+01:00"
     },
     "Simple Layout - 2026 (EN)": {
       "main": {
@@ -1852,9 +1905,12 @@
       },
       "left-ribbon": {
         "hiddenItems": {
+          "obsidian-day-planner:Open Timeline": true,
+          "obsidian-day-planner:Open Multi-Day View": true,
+          "mermaid-tools:Open Mermaid Toolbar": true,
           "bases:Create new base": true,
           "switcher:Open quick switcher": false,
-          "graph:Open graph view": false,
+          "graph:Open graph view": true,
           "canvas:Create new canvas": true,
           "daily-notes:Open today's daily note": false,
           "periodic-notes:Open this week": false,
@@ -1864,8 +1920,8 @@
           "table-editor-obsidian:Advanced Tables Toolbar": true
         }
       },
-      "active": "bf6464642517b604",
-      "mtime": "2026-01-20T21:58:54+01:00"
+      "active": "5182fe2a846486ae",
+      "mtime": "2026-02-03T20:50:58+01:00"
     },
     "Simple Layout - 2026 (DE)": {
       "main": {
@@ -1939,7 +1995,8 @@
                   "title": "Lesezeichen"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "horizontal",
@@ -2014,14 +2071,13 @@
                 "type": "leaf",
                 "state": {
                   "type": "file-properties",
-                  "state": {
-                    "file": "03 - Content/Clean DEVON.md"
-                  },
+                  "state": {},
                   "icon": "lucide-info",
-                  "title": "File properties for Clean DEVON"
+                  "title": "Dateieigenschaften"
                 }
               }
-            ]
+            ],
+            "currentTab": 4
           },
           {
             "id": "0a72e35d2f7ccabf",
@@ -2042,11 +2098,13 @@
           }
         ],
         "direction": "horizontal",
-        "width": 321,
-        "collapsed": true
+        "width": 321
       },
       "left-ribbon": {
         "hiddenItems": {
+          "obsidian-day-planner:Open Timeline": true,
+          "obsidian-day-planner:Open Multi-Day View": true,
+          "mermaid-tools:Open Mermaid Toolbar": true,
           "bases:Neue Base erstellen": true,
           "graph:Graph-Ansicht öffnen": true,
           "canvas:Neuen Canvas erstellen": true,
@@ -2059,9 +2117,9 @@
           "table-editor-obsidian:Advanced Tables Toolbar": true
         }
       },
-      "active": "5182fe2a846486ae",
-      "mtime": "2026-01-20T22:11:22+01:00"
+      "active": "a0bc7aa011c9fe95",
+      "mtime": "2026-02-03T20:43:26+01:00"
     }
   },
-  "active": "Simple Layout - 2026 (DE)"
+  "active": "Custom Layout - 2026 (EN)"
 }
