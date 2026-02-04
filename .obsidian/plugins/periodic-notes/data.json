@@ -9,14 +9,15 @@
   },
   "weekly": {
     "format": "YYYY-[CW]ww",
-    "template": "06 - Templates/weekly-note.md",
-    "folder": "08 - Periodic Notes/Weekly Notes",
+    "template": "04 - Templates/basic/periodic-notes/weekly-note.md",
+    "folder": "06 - Periodic Notes/Weekly Notes",
     "enabled": true
   },
   "monthly": {
     "format": "",
     "template": "",
-    "folder": ""
+    "folder": "",
+    "enabled": false
   },
   "quarterly": {
     "format": "",

@@ -1,3 +1,11 @@
+---
+creation date:
+last modified date:
+aliases: []
+tags: [misc]
+status: todo
+---
+
 #  [[Simple Passwords Lists]]
 
 Used for bruteforcing & dictionary attacks with Burp.

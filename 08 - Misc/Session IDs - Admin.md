@@ -1,3 +1,11 @@
+---
+creation date:
+last modified date:
+aliases: []
+tags: [misc]
+status: todo
+---
+
 # [[Session IDs - Admin]]
 
 ##  202x-xx-xx

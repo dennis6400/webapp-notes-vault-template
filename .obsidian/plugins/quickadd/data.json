@@ -47,6 +47,52 @@
       }
     },
     {
+      "id": "6a287c5e-84a6-48b7-a2cd-92cc9cb77383",
+      "name": "Capture - Add New Task in Daily Note",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "06 - Periodic Notes/Daily Notes/{{DATE:YYYY-MM-DD}}",
+      "captureToActiveFile": false,
+      "activeFileWritePosition": "cursor",
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": true,
+        "template": "04 - Templates/basic/periodic-notes/daily-note.md"
+      },
+      "format": {
+        "enabled": false,
+        "format": ""
+      },
+      "insertAfter": {
+        "enabled": true,
+        "after": "## Day Planner",
+        "insertAtEnd": true,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top",
+        "inline": false,
+        "replaceExisting": false,
+        "blankLineAfterMatchMode": "auto"
+      },
+      "newLineCapture": {
+        "enabled": false,
+        "direction": "below"
+      },
+      "prepend": false,
+      "task": true,
+      "openFile": false,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "templater": {
+        "afterCapture": "none"
+      }
+    },
+    {
       "id": "ae08bc39-ec97-461b-85d5-b047761f18ef",
       "name": "Template - Add New Default Meeting",
       "type": "Template",
@@ -59,8 +105,158 @@
       "folder": {
         "enabled": true,
         "folders": [
-          "03 - Content",
-          "01 - Primary Categories"
+          "08 - Misc"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFile": false,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "a0c99c88-7ff6-4543-99e0-3638232bd10b",
+      "name": "Template - Add New Default Note",
+      "type": "Template",
+      "command": true,
+      "templatePath": "04 - Templates/basic/default-notes/misc.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "01 - Scope & Accounts",
+          "02 - Testing Activities",
+          "03 - Findings",
+          "08 - Misc"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFile": false,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "ee84f103-56e5-4141-a325-20c529fd8d1e",
+      "name": "Template - Add New Account",
+      "type": "Template",
+      "command": true,
+      "templatePath": "04 - Templates/pt/header_account.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "01 - Scope & Accounts/Accounts"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFile": false,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "560ff063-cbd2-4c7e-90a6-19816192be70",
+      "name": "Template - Add New Asset",
+      "type": "Template",
+      "command": true,
+      "templatePath": "04 - Templates/pt/header_asset.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "01 - Scope & Accounts/Assets"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFile": false,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "f8881d74-f7f4-459f-b6c1-d6e1fda196f2",
+      "name": "Template - Add New Attempt",
+      "type": "Template",
+      "command": true,
+      "templatePath": "04 - Templates/pt/header_attempt.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFile": false,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "a47e6ddd-f73e-47aa-9a60-bc9ed0a57fd5",
+      "name": "Template - Add New Finding",
+      "type": "Template",
+      "command": true,
+      "templatePath": "04 - Templates/pt/header_finding.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "03 - Findings"
         ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,

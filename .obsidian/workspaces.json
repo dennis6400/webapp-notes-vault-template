@@ -1167,50 +1167,7 @@
                       "showAttachments": false,
                       "hideUnresolved": false,
                       "collapse-color-groups": true,
-                      "colorGroups": [
-                        {
-                          "query": "file: \"000 - Global Index (Start Here!)\"",
-                          "color": {
-                            "a": 1,
-                            "rgb": 16742400
-                          }
-                        },
-                        {
-                          "query": "path:\"01 - Primary Categories\"",
-                          "color": {
-                            "a": 1,
-                            "rgb": 14701138
-                          }
-                        },
-                        {
-                          "query": "path:\"02 - Secondary Categories\"",
-                          "color": {
-                            "a": 1,
-                            "rgb": 2067956
-                          }
-                        },
-                        {
-                          "query": "path:\"04 - Templates\"",
-                          "color": {
-                            "a": 1,
-                            "rgb": 14935011
-                          }
-                        },
-                        {
-                          "query": "path:\"Daily Notes\"",
-                          "color": {
-                            "a": 1,
-                            "rgb": 4539717
-                          }
-                        },
-                        {
-                          "query": "[\"status\":\"evergreen\"]",
-                          "color": {
-                            "a": 1,
-                            "rgb": 1366804
-                          }
-                        }
-                      ],
+                      "colorGroups": [],
                       "collapse-display": true,
                       "showArrow": false,
                       "textFadeMultiplier": 0,
@@ -2121,5 +2078,5 @@
       "mtime": "2026-02-03T20:43:26+01:00"
     }
   },
-  "active": "Custom Layout - 2026 (EN)"
+  "active": "Simple Layout - 2026 (DE)"
 }
