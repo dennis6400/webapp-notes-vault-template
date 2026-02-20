@@ -1,0 +1,10 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "in_scope": "checkbox",
+    "affected asset(s)": "multitext",
+    "check date": "datetime"
+  }
+}
