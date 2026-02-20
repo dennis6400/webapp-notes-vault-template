@@ -4,8 +4,9 @@ last modified date:
 aliases: []
 tags: [finding]
 status: todo
-reported: false
 severity:
+affected asset(s):
+reported: false
 ---
 
 # [[<% tp.file.title %>]]

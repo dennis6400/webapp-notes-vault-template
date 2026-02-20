@@ -4,7 +4,10 @@ last modified date:
 aliases: []
 tags: [account]
 status: todo
-self_created: false
+role:
+self created: false
+account works: false
+check date:
 ---
 
 # [[<% tp.file.title %>]]

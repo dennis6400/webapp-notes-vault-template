@@ -4,7 +4,7 @@ last modified date:
 aliases: []
 tags: [asset]
 status: todo
-in_scope: false
+in scope: false
 ---
 
 # [[<% tp.file.title %>]]
