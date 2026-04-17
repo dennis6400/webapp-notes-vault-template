@@ -5,6 +5,8 @@
     "tags": "tags",
     "in_scope": "checkbox",
     "affected asset(s)": "multitext",
-    "check date": "datetime"
+    "check date": "datetime",
+    "last modified date": "datetime",
+    "creation date": "datetime"
   }
 }

@@ -988,7 +988,7 @@
         "Alt",
         "Mod"
       ],
-      "key": "\\"
+      "key": "/"
     }
   ],
   "obsidian-auto-link-title:enhance-url-with-title": [
@@ -1026,5 +1026,6 @@
       ],
       "key": "9"
     }
-  ]
+  ],
+  "markdown:add-metadata-property": []
 }
